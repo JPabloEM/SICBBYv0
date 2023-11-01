@@ -1,0 +1,11 @@
+
+
+<br />
+<b>Warning</b>:  Undefined property: DocumentacionV::$model in <b>C:\xampp\htdocs\SICBBY\Controllers\DocumentacionV.php</b> on line <b>34</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function getPDFFileNameById() on null in C:\xampp\htdocs\SICBBY\Controllers\DocumentacionV.php:34
+Stack trace:
+#0 C:\xampp\htdocs\SICBBY\Libraries\Core\Load.php(10): DocumentacionV-&gt;downloadPDFP(7)
+#1 C:\xampp\htdocs\SICBBY\index.php(30): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in <b>C:\xampp\htdocs\SICBBY\Controllers\DocumentacionV.php</b> on line <b>34</b><br />

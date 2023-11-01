@@ -1,0 +1,5 @@
+
+<br />
+<b>Warning</b>:  filesize(): stat failed for Assets/documents/uploads2/pdf_b6849f105c2e0bb8eb04e60e0dbbd268.pdf in <b>C:\xampp\htdocs\SICBBY\Controllers\DocumentosP.php</b> on line <b>123</b><br />
+<br />
+<b>Warning</b>:  readfile(Assets/documents/uploads2/pdf_b6849f105c2e0bb8eb04e60e0dbbd268.pdf): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\SICBBY\Controllers\DocumentosP.php</b> on line <b>126</b><br />
